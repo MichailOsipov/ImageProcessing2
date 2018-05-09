@@ -1,0 +1,10 @@
+H:\C++\1 master\image processing\ImageProcessing2\ImageProcessing2\bin\Debug\ImageProcessing2.exe.config
+H:\C++\1 master\image processing\ImageProcessing2\ImageProcessing2\bin\Debug\ImageProcessing2.exe
+H:\C++\1 master\image processing\ImageProcessing2\ImageProcessing2\bin\Debug\ImageProcessing2.pdb
+H:\C++\1 master\image processing\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.csprojResolveAssemblyReference.cache
+H:\C++\1 master\image processing\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.Form1.resources
+H:\C++\1 master\image processing\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.Properties.Resources.resources
+H:\C++\1 master\image processing\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.csproj.GenerateResource.Cache
+H:\C++\1 master\image processing\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.csproj.CoreCompileInputs.cache
+H:\C++\1 master\image processing\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.exe
+H:\C++\1 master\image processing\ImageProcessing2\ImageProcessing2\obj\Debug\ImageProcessing2.pdb
